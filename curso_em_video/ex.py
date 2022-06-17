@@ -1,0 +1,1 @@
+print(f'''{'Nº':<8}{'Nome do Jogador':^30}{'Gols':^20}{'Total':^10}''')
